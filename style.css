@@ -8,5 +8,8 @@
 .card {
     width: 285px;
     background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-block: 20px;
 }
-
