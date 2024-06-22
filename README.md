@@ -1,3 +1,12 @@
 # 3.2-HTML-CSS-Flex
 
-Using javascript make them appear and disappear one by one. NOTE: They should always appear in the same place.
+Homework for the Full Stack Web Development course from https://factoriaf5.org.
+Practice CSS Flex. 
+
+## Preview:
+![preview](/assets/images/preview.png)
+
+
+## Stack
+- HTML
+- CSS
